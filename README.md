@@ -1,4 +1,4 @@
-# mern-stack
+# Mern Stack
 
 ## Stack
 **Backend API:** Node.js, Express
